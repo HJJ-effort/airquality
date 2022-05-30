@@ -1,0 +1,121 @@
+{
+  "id": "2031557",
+  "name": "air-quality",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "593041",
+      "name": "user-bg",
+      "font_class": "userbg",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "31146",
+      "name": "阴天-天气",
+      "font_class": "yintian",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "765770",
+      "name": "天气",
+      "font_class": "shouye1",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "20266217",
+      "name": "天气",
+      "font_class": "tianqi",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "2071350",
+      "name": "angle-left",
+      "font_class": "angle-left",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "2071351",
+      "name": "angle-right",
+      "font_class": "angle-right",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "592880",
+      "name": "data06",
+      "font_class": "data06",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "6664190",
+      "name": "order",
+      "font_class": "order",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "13554424",
+      "name": "user-settings-fill",
+      "font_class": "user-settings-fill",
+      "unicode": "ef9b",
+      "unicode_decimal": 61339
+    },
+    {
+      "icon_id": "14843441",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18991402",
+      "name": "goods-fill",
+      "font_class": "goods-fill",
+      "unicode": "e81b",
+      "unicode_decimal": 59419
+    },
+    {
+      "icon_id": "7091330",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "8073905",
+      "name": "profile",
+      "font_class": "profile",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "12479007",
+      "name": "分类",
+      "font_class": "fenlei-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15296782",
+      "name": "密 码",
+      "font_class": "mima",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "16397310",
+      "name": "home",
+      "font_class": "shouye",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
